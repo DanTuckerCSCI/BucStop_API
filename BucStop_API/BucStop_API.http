@@ -1,0 +1,6 @@
+@BucStop_API_HostAddress = http://localhost:5208
+
+GET {{BucStop_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
